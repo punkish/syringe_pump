@@ -4,7 +4,7 @@
 
 Qty | Item | Notes
 --- | :--- | :--- 
-1	| NEMA 17 Stepper Motor | IMPORTANT: check the terminal connector—it must be female, like in the photo. Otherwise it will need to be crimped.
+1	| NEMA 17 Stepper Motor ![](img/nema-motor.jpg) | IMPORTANT: check the terminal connector—it must be female, like in the photo. Otherwise it will need to be crimped.
 2	| Smooth rod M8x150 mm  | IMPORTANT: be careful when cutting them so that they remain threaded or so that  bearings fit (smooth).
 1	| Threaded rod M4x140 mm|
 2	| Linear bearing LM8UU  |	
@@ -24,7 +24,7 @@ Qty | Item      | Notes
 ## Printable parts (.stl files)
 
 Qty | Item                  | Notes
---- | :---                  | :---                                                                             	Notes                                                                                                                           
+--- | :---                  | :---
 1	| motor support	        | 
 1	| milano design support |
 1	| push female piece	    |
