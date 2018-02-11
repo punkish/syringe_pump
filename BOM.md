@@ -19,19 +19,19 @@ Qty | Item | Notes
 
 Qty | Item      | Notes
 --- | :---      | :---
-1	| Needle    | Without tip/bevel (variable diameter >1mm)
-1	| Syringe   | With luer lock (20 mL, volume can change)
-1	| Luer-lock | Male to female extension tube (>30cm – Depends  on printer)
+1	| Needle <br> ![](img/needle.jpg)       | Without tip/bevel (variable diameter >1mm)
+1	| Syringe <br> ![](img/syringe.jpg)     | With luer lock (20 mL, volume can change)
+1	| Luer-lock <br> ![](img/luer-lock.jpg) | Male to female extension tube (>30cm – Depends  on printer)
 
 ## Printable parts (.stl files)
 
 Qty | Item                  | Notes
 --- | :---                  | :---
-1	| motor support	        | 
-1	| milano design support |
-1	| push female piece	    |
-1	| push male piece	    |
-1	| syringe suport	    |
-1	| pivot strip	        |
-1	| syringe strip         | To be printed in Filaflex or other flexible materials
-1	| milano support        |
+1	| [motor support](stl/v2.0/motor_support.stl)                | 
+1	| [milano design support](stl/v2.0/milan_support_design.stl) |
+1	| [push female piece](stl/v2.0/push_female_piece.stl)	     |
+1	| [push male piece](stl/v2.0/push_male_piece.stl)	         |
+1	| [syringe suport](stl/v2.0/syringe_support.stl)	         |
+1	| [pivot strip](stl/v2.0/pivot_strip.stl)	                 |
+1	| [syringe strip](stl/v2.0/syringe_strip.stl)                | To be printed in Filaflex or other flexible materials
+1	| [milano support](stl/v2.0/milan_support.stl)               |
