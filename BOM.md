@@ -1,6 +1,6 @@
 # Bill of Materials
 
-![Syring Pump](syringe-pump.jpg)
+![Syring Pump](img/syringe-pump.jpg)
 
 ## Mechanical Parts
 
